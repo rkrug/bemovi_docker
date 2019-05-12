@@ -18,7 +18,7 @@ RUN unzip ij152-linux64-java8.zip \
 COPY ParticleLinker.jar ImageJ/plugins
 
 # 4. Download the ParticleLinker.
-#RUN wget NEED TO GET THE URL FROM FRANK
+#RUN wget NEED TO GET THE URL
 
 # 5. Download and install the R - The statistical computing environment, and potentially Rstudio.
 # Already in the source image
