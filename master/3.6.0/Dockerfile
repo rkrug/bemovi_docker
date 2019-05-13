@@ -31,4 +31,4 @@ RUN installGithub.r pennekampster/bemovi@master \
 
 # Set some variables which are for this system
 RUN echo "IJ.path <- '/ImageJ/'" >> /usr/local/lib/R/etc/Rprofile.site \
-    && echo "to.particlelinker <- '/ImageJ/'" >> /usr/local/lib/R/etc/Rprofile.site \
+    && echo "to.particlelinker <- '/ImageJ/'" >> /usr/local/lib/R/etc/Rprofile.site
