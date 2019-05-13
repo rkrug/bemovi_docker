@@ -38,3 +38,8 @@ This should open Rstudio. If it asks for a password, use
 
 * **username** = `rstudio`
 * **password** = `pwd`
+
+**<span style="color:red">## TODO: </span>**
+There are issues with running ImageJ headless - I don't have a solution at the moment.
+
+Likely solution: use `ImageJ --headless -macro ...` instead of `java -jar ij.jar -macro ...`, but this needs to be tested before.
