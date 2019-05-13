@@ -9,7 +9,7 @@ or for the bemovi develop branch:
 
 
 ```
-cd master/3.6.0/
+cd develop/3.6.0/
 docker build -t bemovi_develop .
 ```
 
