@@ -33,4 +33,8 @@ From your browser, goto
 http://localhost:8787/
 ```
 
-This should open Rstudio. If it asks for a password, use `pwd`.
+This should open Rstudio. If it asks for a password, use
+
+
+* **username** = `rstudio`
+* **password** = `pwd`
