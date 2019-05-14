@@ -1,3 +1,5 @@
+# The Docker container works, but one can't run ImageJ as it needs to run headless.
+
 ## Build the images
 
 ```
