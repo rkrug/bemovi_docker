@@ -1,5 +1,12 @@
 # The Docker container works, but one can't run ImageJ as it needs to run headless.
 
+## Pull the docker image
+The bemovi_master image ia on the docker hub at https://hub.docker.com/r/rkrug/bemovi_master and you can simply pull it by using
+
+```
+docker pull rkrug/bemovi_master
+```
+
 ## Build the images
 
 ```
